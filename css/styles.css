@@ -11,7 +11,6 @@ p {
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.02em;
-    text-align: left;
 }
 
 /* style-for-Header 3*/
@@ -114,13 +113,14 @@ li {
     width: 169px;
     height: 56px;
     top: 428px;
-    left: 636px;
-    padding: 16px, 32px, 16px, 32px;
     border: none;
     color: #ffffff;
     cursor:pointer;
 }
 
+.team{
+    text-align: center;
+}
 .button:hover {
     background-color: #404BBF;
     cursor: pointer
@@ -162,7 +162,7 @@ li {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: #F4F4FD;
 }
 
 .menu-link-footer {
