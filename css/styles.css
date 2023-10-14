@@ -3,6 +3,8 @@ body {
     font-family: 'Alexandria', sans-serif;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto', sans-serif;
+    color:  #434455;
+    background-color: #FFFFFF;
     }
 
 /* style-for-paragraphs*/
@@ -21,7 +23,13 @@ h3 {
     line-height: 24px;
     letter-spacing: 0.02em;
     text-align: left;
+    color: #2E2F42;
 }
+
+h2 {
+    color: #2E2F42;
+}
+
 
 /* style-for-ul,li*/
 ul,
@@ -31,7 +39,7 @@ li {
 
 /* style-for-button*/
 .button {
-    background-color: rgba(77, 90, 229, 1);
+    background-color: #4d5ae5;
     border-radius: 4px;
     width: 169px;
     height: 56px;
@@ -39,7 +47,7 @@ li {
     left: 636px;
     padding: 16px, 32px, 16px, 32px;
     border: none;
-    color: #fff;
+    color: #ffffff;
     cursor:pointer;
 }
 
@@ -51,16 +59,28 @@ li {
     font-family: Raleway, sans-serif;
     text-decoration: none;
     text-transform: uppercase;
+    color: #4d5ae5;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
 }
 
 .colored-text {
-    color: rgba(77, 90, 229, 1);
+    color: #4d5ae5;
     font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .logo-link {
-    color: rgba(46, 47, 66, 1);
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
+    color: #2e2f42;
+    font-size: 18px;
 }
 
 .nav-link {
@@ -71,7 +91,7 @@ li {
     text-align: left;
     text-decoration: none;
     color: inherit;
-    color: rgba(46, 47, 66, 1);
+    color: #2e2f42;
 
 }
 
@@ -81,7 +101,11 @@ li {
     line-height: 24px;
     letter-spacing: 0.02em;
     text-align: left;
-    color: rgba(67, 68, 85, 1);
+    color: #434455;
     font-style: normal;
     text-decoration: none;
+}
+
+.p-colir-ul-li {
+    color: #434455;
 }
