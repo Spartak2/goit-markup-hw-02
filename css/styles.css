@@ -106,6 +106,9 @@ li {
     color: #404bbf;
 }
 
+.address-link:hover{
+    color: #404bbf;
+}
 /* style-for-button*/
 .button {
     background-color: #4d5ae5;
@@ -121,12 +124,12 @@ li {
 }
 
 .button:hover {
-    color: #404BBF;
+    background-color: #404BBF;
     cursor: pointer
 }
 
 .button:focus {
-    color: #404BBF;
+    background-color: #404BBF;
     cursor: pointer
 }
 
