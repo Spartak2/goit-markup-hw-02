@@ -13,10 +13,33 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
 }
 
 /* style-for-Header 3*/
+h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #2E2F42;
+}
 
+.title{
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.page-title{
+    background-color: #2E2F42;
+}
 
 h2 {
     color: #2E2F42;
