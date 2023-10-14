@@ -4,7 +4,6 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto', sans-serif;
     background-color: #FFFFFF;
-    font-family: "Roboto", sans-serif;
     color: #434455;
     }
 
@@ -34,7 +33,9 @@ h3 {
     line-height: 60px;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #FFFFFF;
+    color: #ffffff;
+    line-height: 1.07;
+
 }
 
 .page-title{
@@ -117,6 +118,16 @@ li {
     border: none;
     color: #ffffff;
     cursor:pointer;
+}
+
+.button:hover {
+    color: #404BBF;
+    cursor: pointer
+}
+
+.button:focus {
+    color: #404BBF;
+    cursor: pointer
 }
 
 .address-link {
