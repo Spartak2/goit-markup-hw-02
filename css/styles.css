@@ -1,7 +1,5 @@
 /* style-for-body*/
 body {
-    font-family: 'Alexandria', sans-serif;
-    font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto', sans-serif;
     background-color: #FFFFFF;
     font-family: "Roboto", sans-serif;
@@ -116,7 +114,7 @@ li {
     text-decoration: none;
 }
 
-.footer-background-color{
+.page-footer{
     background-color: #2E2F42;
 }
 
