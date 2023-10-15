@@ -70,6 +70,9 @@ li {
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
+.main-screen-header{
+    background-color: #2e2f42;
+}
 
 .title-screen-header {
     font-size: 56px;
@@ -77,8 +80,6 @@ li {
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-
-
 }
 
 .logo-link span {
