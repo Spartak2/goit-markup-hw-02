@@ -15,20 +15,17 @@ h3 {
     color: #2E2F42;
 }
 
-.title{
-    font-family: Roboto;
-    font-size: 56px;
-    font-weight: 700;
-    line-height: 60px;
-    letter-spacing: 0.02em;
-    text-align: center;
+/* style-for-button*/
+.button-main-screen {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     color: #ffffff;
-    line-height: 1.07;
-
+    background-color: #4d5ae5;
+    cursor:pointer;
 }
 
-address-link
-.page-title{
+.main-screen-headere{
     background-color: #2E2F42;
 }
 
@@ -74,6 +71,16 @@ li {
     text-transform: uppercase;
 }
 
+.title-screen-header {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+
+
+}
+
 .logo-link span {
     color: #2e2f42;
 }
@@ -103,15 +110,6 @@ li {
 .address-link:hover{
     color: #404bbf;
 }
-/* style-for-button*/
-.button {
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
-    background-color: #4d5ae5;
-    cursor:pointer;
-}
 
 .portfolio-main {
     font-size: 20px;
@@ -132,15 +130,6 @@ li {
 
 .team {
     text-align: center;
-}
-.button:hover {
-    background-color: #404BBF;
-    cursor: pointer
-}
-
-.button:focus {
-    background-color: #404BBF;
-    cursor: pointer
 }
 
 .address-link {
