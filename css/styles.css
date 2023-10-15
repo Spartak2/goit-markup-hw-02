@@ -84,7 +84,11 @@ li {
     cursor:pointer;
 }
 
-.button-main-screen:hover, :focus {
+.button-main-screen:hover{
+    background-color: #404BBF;
+}
+
+.button-main-screen:focus{
     background-color: #404BBF;
 }
 
