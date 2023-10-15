@@ -154,6 +154,9 @@ li {
     text-decoration: none;
 }
 
+.address-link:hover {
+    color: #404bbf;
+}
 
 .address-link :focus{
     color: #404bbf;
