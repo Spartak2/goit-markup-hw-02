@@ -116,16 +116,7 @@ li {
 /* section-1 */
 
 /* section-2 */
-
-
-.about-us-p{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.title-about-us{
+.about-us-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -133,6 +124,12 @@ li {
     color: #2e2f42;
 }
 
+.about-us-p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 
 .colored-text {
     color: #4d5ae5;
@@ -147,7 +144,22 @@ li {
     background-color: #2e2f42;
 }
 
-.portfolio-main {
+.team {
+    text-align: center;
+}
+
+
+/* section-4 */
+.portfolio-images-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.portfolio-main-title {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.5;
@@ -155,7 +167,7 @@ li {
     color: #2E2F42;
 }
 
-.portfolio-text {
+.portfolio-text-p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -163,23 +175,13 @@ li {
     color: #434455;
 }
 
+/* section-4 */
 
-.team {
-    text-align: center;
-}
-
-
-.page-footer {
-    background-color: #2E2F42;
-}
-
+/* footer */
 .footer-p {
-    font-family: Roboto;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.02em;
     color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .logo-link-footer {
@@ -197,10 +199,15 @@ li {
     text-decoration: none;
 }
 
-
+.page-footer {
+    background-color: #2E2F42;
+}
 
 .footer-p {
-    color: #F4F4FD;
-    line-height: 1.5;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
     letter-spacing: 0.02em;
+    color: #F4F4FD;
 }
