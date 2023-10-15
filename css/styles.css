@@ -50,7 +50,7 @@ li {
     color: #404bbf;
 }
 
-.nav-link:focus {
+.nav-link:hover {
     color: #404bbf;
 }
 
@@ -96,7 +96,7 @@ li {
 }
 
 .button-main-screen {
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -106,10 +106,7 @@ li {
     cursor: pointer;
 }
 
-.button-main-screen:hover {
-    background-color: #404BBF;
-}
-
+.button-main-screen:hover,
 .button-main-screen:focus {
     background-color: #404BBF;
 }
@@ -143,7 +140,7 @@ li {
 .main-screen-header{
     background-color: #2e2f42;
 }
-/* section-3 */
+
 .team {
     text-align: center;
 }
