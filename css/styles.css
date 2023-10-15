@@ -116,13 +116,7 @@ li {
 /* section-1 */
 
 /* section-2 */
-.about-us-title {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
+
 
 .about-us-p{
     font-size: 16px;
@@ -131,7 +125,13 @@ li {
     color: #434455;
 }
 
-
+.title-about-us{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 
 
 .colored-text {
