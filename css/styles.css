@@ -151,7 +151,9 @@ li {
     text-align: left;
     color: #434455;
     font-style: normal;
+    text-decoration: none;
 }
+
 
 .address-link :focus{
     color: #404bbf;
