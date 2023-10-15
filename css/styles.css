@@ -15,16 +15,6 @@ h3 {
     color: #2E2F42;
 }
 
-/* style-for-button*/
-.button-main-screen {
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
-    background-color: #4d5ae5;
-    cursor:pointer;
-}
-
 .main-screen-headere{
     background-color: #2E2F42;
 }
@@ -81,6 +71,24 @@ li {
     letter-spacing: 0.02em;
     color: #ffffff;
 }
+
+/* style-for-button*/
+.button-main-screen {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    background-color: #4d5ae5;
+    cursor:pointer;
+}
+
+.button-main-screen:hover, :focus {
+    background-color: #404BBF;
+}
+
+
 
 .logo-link span {
     color: #2e2f42;
