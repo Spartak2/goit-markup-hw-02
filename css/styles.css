@@ -143,9 +143,18 @@ li {
 .main-screen-header{
     background-color: #2e2f42;
 }
-
+/* section-3 */
 .team {
+    font-size: 36px;
+    line-height: 1.11;
     text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.page-team-info {
+    background-color: #F4F4FD;
 }
 
 
