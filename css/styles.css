@@ -27,6 +27,7 @@ h3 {
 
 }
 
+address-link
 .page-title{
     background-color: #2E2F42;
 }
@@ -40,6 +41,10 @@ h2 {
 ul,
 li {
     list-style-type: none;
+}
+
+.contact-data-pages {
+    font-style: normal
 }
 
 .menu-link {
@@ -147,6 +152,10 @@ li {
     color: #434455;
     font-style: normal;
     text-decoration: none;
+}
+
+.address-link :focus{
+    color: #404bbf;
 }
 
 .page-footer {
