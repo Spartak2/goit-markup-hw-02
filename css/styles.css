@@ -69,7 +69,7 @@ li {
     text-decoration: none;
 }
 
-.address-link :focus,
+.address-link:focus,
 .address-link:hover {
     color: #404bbf;
 }
