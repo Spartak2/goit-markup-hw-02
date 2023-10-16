@@ -46,7 +46,7 @@ li {
     text-decoration: none;
 }
 
-.nav-link:fo {
+.nav-link:focus {
     color: #404bbf;
 }
 
@@ -151,16 +151,15 @@ li {
 }
 
 .portfolio-main-title {
-    font-size: 20px;
     font-weight: 500;
-    line-height: 1.5;
+    font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: #2e2f42;
 }
 
 .portfolio-text-p {
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
