@@ -135,7 +135,39 @@ li {
 .team {
     text-align: center;
 }
+/* section-3 */
 
+/* Стиль фону для секції */
+.background-color {
+    background-color: #F4F4FD;
+}
+
+/* Заголовок секції "Our Team" */
+.team {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+/* Заголовок списку (перший пункт) */
+.list-item-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+/* Опис в списку (перший пункт) */
+.list-item-description {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 
 /* section-4 */
 .portfolio-images-title {
