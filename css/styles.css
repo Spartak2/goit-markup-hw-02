@@ -46,7 +46,7 @@ li {
     text-decoration: none;
 }
 
-.nav-link:focus {
+.nav-link:fo {
     color: #404bbf;
 }
 
@@ -69,11 +69,8 @@ li {
     text-decoration: none;
 }
 
+.address-link :focus,
 .address-link:hover {
-    color: #404bbf;
-}
-
-.address-link :focus{
     color: #404bbf;
 }
 
