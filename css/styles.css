@@ -70,14 +70,14 @@ li {
 }
 
 .address-link:focus,
-.address-link:hover{
+.address-link:hover {
     color: #404bbf;
 }
 
 /* header */
 
 /* section-1 */
-.main-screen-headere{
+.main-screen-headere {
     background-color: #2E2F42;
 }
 
@@ -115,7 +115,7 @@ li {
     color: #2e2f42;
 }
 
-.about-us-p{
+.about-us-p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -131,7 +131,7 @@ li {
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.main-screen-header{
+.main-screen-header {
     background-color: #2e2f42;
 }
 
