@@ -46,7 +46,7 @@ li {
     text-decoration: none;
 }
 
-.nav-link:hover {
+.nav-link:focus {
     color: #404bbf;
 }
 
@@ -77,9 +77,6 @@ li {
     color: #404bbf;
 }
 
-.address-link:hover{
-    color: #404bbf;
-}
 /* header */
 
 /* section-1 */
