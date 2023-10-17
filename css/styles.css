@@ -165,6 +165,10 @@ li {
     color: #434455;
 }
 
+.list-item-background-color {
+    background-color: #FFFFFF;
+}
+
 /* section-4 */
 /* Styling for the section title */
 .portfolio-images-title {
