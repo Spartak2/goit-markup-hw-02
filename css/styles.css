@@ -5,8 +5,7 @@ body {
     background-color: #FFFFFF;
 }
 /* style-for-ul,li*/
-ul,
-li {
+ul{
     list-style-type: none;
 }
 
